@@ -1,4 +1,3 @@
-[![MasterHead](https://media.giphy.com/media/GHKlVpc6ThFB9Zk41M/giphy.gif)](https://singhjashanpreet.io/)
 
 <h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A Self-motivated and passionate undergraduate student pursuing B.Tech(CSE)</h3>
